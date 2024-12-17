@@ -7,6 +7,7 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 ![image](https://github.com/qzhao0805/Final-report/blob/main/image/1.gif) 
 
 專案首頁給了一張換臉動圖非常有說服力，真是一圖勝萬言。 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/2.gif) 
 
 快速在本地配置一個環境，​​驗證了一下，確實還不錯。主要是，簡單，快速，簡單，快速，簡單，快速！ 
 
