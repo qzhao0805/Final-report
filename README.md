@@ -4,6 +4,7 @@
 11024114 翁莊堡 
 
 AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個單圖就可以進行視頻換臉的專案。 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/1.gif) 
 
 專案首頁給了一張換臉動圖非常有說服力，真是一圖勝萬言。 
 
