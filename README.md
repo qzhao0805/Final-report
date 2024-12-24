@@ -57,8 +57,6 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 
 ![image](image/cvv5c-mm4ap.gif) 
 
-![image](image/arrow.png#pic_center=500x300)
-
 ### 換臉結果:
 
 ![image](image/47isy-jss11.gif)
