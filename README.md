@@ -31,6 +31,14 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 ![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
 也可以在頂部選單中找到“代碼執行程序”-> “全部運行” ，這樣就可以一鍵運行了！ 
 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
+
+
+
 為了讓大家快速切無異常的體驗到單圖換臉的樂趣，我已經準備好了示範的圖片和影片素材。 
 ![image](https://github.com/qzhao0805/Final-report/blob/main/image/4.jpg)  
 運行完①之後，可以在左邊的文件管理裡面查看。如果你想替換圖片和視頻，只要把這兩個文件換掉。替換之後，重新點擊⑤就好了。 
