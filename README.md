@@ -51,9 +51,9 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 ![image](https://github.com/qzhao0805/Final-report/blob/main/image/c_dir.png)   
 在左側的檔案管理器中，右鍵，下載就可以了。下載到本機就直接可以查看效果咯。 
 
-
-
-
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/1.gif) 
+![image](http://pngimg.com/uploads/red_arrow/red_arrow_PNG56.png)
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/1.gif) 
 
 
 
