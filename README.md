@@ -31,11 +31,11 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 ![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
 也可以在頂部選單中找到“代碼執行程序”-> “全部運行” ，這樣就可以一鍵運行了！ 
 
-![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
-![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
-![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
-![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
-![image](https://github.com/qzhao0805/Final-report/blob/main/image/3.jpg) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/c1.png) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/c2.png) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/c3.png) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/c4.png) 
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/c5.png) 
 
 
 
@@ -48,7 +48,7 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 上傳成功之後，把原來的1.jpg和2.MP4刪除，把你自己上傳的照片和影片改成這兩個名字，然後運行第⑤步就可以了。 
 
 第⑤運行完成之後，會產生一個叫out.mp4的影片文件，這個就是換臉後的文件了。  
-![image](https://github.com/qzhao0805/Final-report/blob/main/image/6.jpg)   
+![image](https://github.com/qzhao0805/Final-report/blob/main/image/c_dir.png)   
 在左側的檔案管理器中，右鍵，下載就可以了。下載到本機就直接可以查看效果咯。 
 
 
