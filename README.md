@@ -50,13 +50,17 @@ AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個
 第⑤運行完成之後，會產生一個叫out.mp4的影片文件，這個就是換臉後的文件了。  
 ![image](image/c_dir.png)   
 在左側的檔案管理器中，右鍵，下載就可以了。下載到本機就直接可以查看效果咯。 \
-###我們使用的圖片為:
+##我們使用的圖片為:
 ![image](image/trump.png)
-###原影像:
+
+##原影像:
+
 ![image](image/cvv5c-mm4ap.gif) 
 
 ![image](image/arrow.png#pic_center=500x300)
-###換臉結果:
+
+##換臉結果:
+
 ![image](image/47isy-jss11.gif)
 
 
