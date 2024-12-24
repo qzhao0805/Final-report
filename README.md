@@ -3,7 +3,7 @@
 11024201 趙青益  
 11024114 翁莊堡 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/roop_colab/blob/main/roop_v1_3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GsWIS-K8d71gy1TrlDoSyiyLweAEpLDv/view?usp=sharing)
 
 AI領域人才輩出，突然就跳出一個大佬“s0md3v”，開源了一個單圖就可以進行視頻換臉的專案。 
 ![image](https://github.com/qzhao0805/Final-report/blob/main/image/1.gif) 
